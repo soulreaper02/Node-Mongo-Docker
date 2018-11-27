@@ -58,8 +58,10 @@ sudo chmod +x /usr/local/bin/docker-compose
 docker-compose --version
 ```
 
-Git comes pre-installed with the VM. so you can clone the repository, go the the project folder and run
-```docker-compose up```
+#Git comes pre-installed with the VM. so you can clone the repository, go the the project folder and run
+```bash
+docker-compose up
+```
 
 
 
